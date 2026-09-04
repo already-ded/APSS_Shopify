@@ -1,4 +1,4 @@
-# APSS Shopify Enhancements (đọc có chọn lọc nhé tại AI viết á :"> Tui chưa test hết nên cũng ko cf đc nó viết có đúng ko...)
+## APSS Shopify Enhancements (đọc có chọn lọc nhé tại AI viết á :"> Tui chưa test hết nên cũng ko cf đc nó viết có đúng ko...)
 
 Starter per-tenant extension for Business Central 28 and the Microsoft Shopify Connector.
 
